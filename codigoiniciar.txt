@@ -1,0 +1,2 @@
+cd C:\Users\Pipo\Desktop\BotCursos
+python main.py
